@@ -9,5 +9,5 @@
 
 ##### Eklenen eğitimler
 
-- [Merhaba dünya](examples/helloWorld) ([youtube](http://www.youtube.com/ikimuhendis))
+- [Merhaba dünya](examples/helloWorld) ([youtube](http://www.youtube.com/watch?v=BR3jZrlQ7vk))
 
