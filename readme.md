@@ -9,4 +9,5 @@
 
 ##### Eklenen eğitimler
 
-- [Merhaba dünya](https://github.com/IkiMuhendis/LearningAngularJS/tree/master/examples/helloWorld) [youtube](http://www.youtube.com/ikimuhendis)
+- [Merhaba dünya](examples/helloWorld) [youtube](http://www.youtube.com/ikimuhendis)
+
