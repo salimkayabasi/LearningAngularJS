@@ -5,9 +5,9 @@
 
 #### Videolar için
 
-[Youtube/IkiMuhendis] (http://www.youtube.com/ikimuhendis)
+[Youtube/IkiMuhendis](http://www.youtube.com/ikimuhendis)
 
 ##### Eklenen eğitimler
 
-- [Merhaba dünya](examples/helloWorld) [youtube](http://www.youtube.com/ikimuhendis)
+- [Merhaba dünya](examples/helloWorld) ([youtube](http://www.youtube.com/ikimuhendis))
 
